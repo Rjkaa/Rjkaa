@@ -1,4 +1,6 @@
-<h2 align="center">✨ Hello, I'm <strong>Teuku Ahmad Rajaka</strong> ✨</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Teuku+Ahmad+Rajaka;I+love+coding+and+creating+things!" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <em>Software & Game Development Student | Junior Developer | Dreamer who codes</em>
@@ -63,9 +65,6 @@ Coding is my medium to learn, build, and grow.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rjkaa&theme=tokyo-night" alt="activity graph"/>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Teuku+Ahmad+Rajaka;I+love+coding+and+creating+things!" alt="Typing SVG" />
 </p>
 
 ![Visitors](https://komarev.com/ghpvc/?username=Rjkaa&color=gray&style=flat-square)
