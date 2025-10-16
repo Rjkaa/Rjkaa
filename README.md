@@ -21,9 +21,10 @@ Coding is my medium to learn, build, and grow.
 ---
 
 ### 🌱 Learning Journey  
-- Deepening PHP & Laravel  
-- Exploring Unity for simple 2D/3D games  
-- Writing cleaner, more readable code  
+- Improving my skills in **PHP** and **Laravel** for backend development  
+- Learning **JavaScript** and modern frameworks to enhance frontend experiences  
+- Practicing **clean code** and **project structure** for better maintainability  
+
 
 ---
 
