@@ -11,6 +11,9 @@ I'm a student from **SMK Wikrama 1 Garut**, majoring in **Software and Game Deve
 I enjoy crafting clean, functional, and creative digital experiences — whether it’s a web app, a small game, or a personal experiment.  
 Coding is my medium to learn, build, and grow.
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+
+
 ---
 
 ### 🧩 Tech I Use  
@@ -61,4 +64,9 @@ Coding is my medium to learn, build, and grow.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rjkaa&theme=tokyo-night" alt="activity graph"/>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Teuku+Ahmad+Rajaka;I+love+coding+and+creating+things!" alt="Typing SVG" />
+</p>
+
+![Visitors](https://komarev.com/ghpvc/?username=Rjkaa&color=gray&style=flat-square)
 
