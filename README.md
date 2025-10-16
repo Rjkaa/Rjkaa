@@ -41,8 +41,8 @@ Coding is my medium to learn, build, and grow.
 ### 📬 Connect With Me  
 <p align="left">
   <a href="https://github.com/Rjkaa" target="_blank">🐙 GitHub</a> ・
-  <a href="mailto:teukuahmadrajaka@gmail.com">📧 Email</a> ・
-  <a href="https://www.linkedin.com/in/teuku-ahmad-rajaka">💼 LinkedIn</a>
+  <a href="mailto:teuku.ahmadrajaka@gmail.com">📧 Email</a> ・
+  <a href="https://https://www.linkedin.com/in/teuku-ahmad-rajaka-5081b433a//in/teuku-ahmad-rajaka">💼 LinkedIn</a>
 </p>
 
 ---
