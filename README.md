@@ -54,3 +54,11 @@ Coding is my medium to learn, build, and grow.
   <sub>“Dream it. Code it. Build it.”</sub>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rjkaa&theme=tokyonight" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rjkaa&theme=tokyo-night" alt="activity graph"/>
+</p>
+
